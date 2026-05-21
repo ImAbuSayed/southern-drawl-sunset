@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Southern Drawl Sunset
+
+This log tracks the cryptographic history and versioning for the song **Southern Drawl Sunset** (southern-drawl-sunset).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-21T09:35:13.306059 | `v1` | `3d6bd482ee69c1f72494efa67886c1e0e88a8c11a1635e2e66fc91ba4abb357c` | `502cbeeba9047ee48f8cd492e021f61430b5b6e7ecc38dd76b2db68e533b2425` | `2026-05-21_southern-drawl-sunset-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

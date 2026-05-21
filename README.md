@@ -17,9 +17,9 @@
 | **Title** | Southern Drawl Sunset |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | May 21, 2026 |
-| **Song Page** | Pending |
+| **Song Page** | [Open Song Page](https://imabusayed.github.io/southern-drawl-sunset/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Southern Drawl Sunset](https://music.abusayed.com.bd/Licensing/) |
+| **Get License** | [Secure Licensing Rights for Southern Drawl Sunset](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/southern-drawl-sunset/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
