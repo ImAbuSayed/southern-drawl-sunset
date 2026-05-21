@@ -21,7 +21,7 @@
 | **Released On** | May 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/southern-drawl-sunset/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Southern Drawl Sunset](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=rx-9fgaYYV4?https://imabusayed.github.io/southern-drawl-sunset/) |
+| **Get License** | [Secure Licensing Rights for Southern Drawl Sunset](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=rx-9fgaYYV4?https://imabusayed.github.io/southern-drawl-sunset/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
