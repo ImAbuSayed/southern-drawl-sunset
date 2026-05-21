@@ -8,16 +8,16 @@
   "public_repo_url": "https://github.com/ImAbuSayed/southern-drawl-sunset",
   "gist_url": null,
   "telegram_post_url": "https://t.me/AbuSayedMusic/1804",
-  "youtube_link": null,
-  "spotify_link": null,
-  "apple_music_link": null,
-  "website_link": null,
+  "youtube_link": "https://www.youtube.com/watch?v=rx-9fgaYYV4",
+  "spotify_link": "",
+  "apple_music_link": "",
+  "website_link": "",
   "feature_image_url": "https://abusayed.com.bd/wp-content/uploads/2026/05/Southern-Drawl-Sunset.webp",
   "sha256_hash": "3d6bd482ee69c1f72494efa67886c1e0e88a8c11a1635e2e66fc91ba4abb357c",
   "sha256_raw_hash": "502cbeeba9047ee48f8cd492e021f61430b5b6e7ecc38dd76b2db68e533b2425",
   "lyric_version": 1,
   "proof_timestamp": "2026-05-21T09:35:13.306059",
-  "song_creation_date": null,
-  "official_release_date": null,
-  "generated_at": "2026-05-21T03:37:04Z"
+  "song_creation_date": "2026-05-21",
+  "official_release_date": "2026-05-21",
+  "generated_at": "2026-05-21T03:39:58Z"
 }
